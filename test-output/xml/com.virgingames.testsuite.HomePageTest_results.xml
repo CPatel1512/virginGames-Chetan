@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.603">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToHomePage" time="1.218" classname="com.virgingames.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldClickToLoginButton" time="1.611" classname="com.virgingames.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldClickSearchBar" time="0.774" classname="com.virgingames.testsuite.HomePageTest" />
+      
+</testsuite>
